@@ -6,3 +6,6 @@ print("habla pe CHAMO2")
 print("loco ... que pasaaa ... loco")
 
 print("controlate muchacho")
+print("altamira simps")
+
+print("Saludos a Altamira Technology!")
